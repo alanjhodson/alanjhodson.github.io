@@ -1,6 +1,7 @@
 [build]
  command = "jekyll build"
  publish = "_site"
+ CI = npm run build
 
 [build.environment]
   JEKYLL_ENV = "production"

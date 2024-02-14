@@ -28,7 +28,7 @@ description:           >
   Alan Hodson Consulting and Blog.
 
 # A shorter description for the sidebar.
-tagline:               EUC Specialist - Board Member - Consultant
+tagline:               Board Member & Consultant
 
 # A list of keywords for your blog
 keywords:              [Nerdio, AVD, Citrix, Azure, PowerShell, Community, FSLogix, Security, Netscaler, EUC, Modern Workplace, Microsoft, VMWare, Nutanix, DaaS]
@@ -43,8 +43,8 @@ author:
   # Used by `jekyll-feed`:
   name:                Alan Hodson
   email:               mail@alanhodson.com
-  github:              https://github.com/alanjhodson
-  linkedin:            https://www.linkedin.com/in/alan-hodson-8378a23/
+  github:              alanjhodson
+  linkedin:            alan-hodson-8378a23
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 

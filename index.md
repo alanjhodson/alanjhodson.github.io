@@ -2,7 +2,7 @@
 layout: blog
 title: Blog
 description: >
-  Board Member | Director | EUC Specialist | Consultant | Mentor
+  EUC Specialist | Board Member | Consultant
 last_modified_at: 2024-02-14
 no_link_title: false 
 no_excerpt: false 

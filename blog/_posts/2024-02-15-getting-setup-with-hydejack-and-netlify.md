@@ -3,7 +3,7 @@ layout: post
 title: "Getting started with Hydejack and Netlify"
 permalink: "/getting-setup-with-hydejack-and-netlify/"
 description: "Getting the site setup using Hydejack and Netlify - A great way to start a new site and blog."
-categories: [Blog, Netlify, Jekyll]
+categories: [Github, Netlify, Jekyll]
 image:
   path: /assets/img/getting-setup-with-hydejack-and-netlify/post_default_image.jpg
 sitemap: true

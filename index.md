@@ -1,8 +1,6 @@
 ---
 layout: welcome
 title: Home
-description: >
-  alanhodson.com
 last_modified_at: 2024-02-14
 no_link_title: false 
 no_excerpt: false 
@@ -15,4 +13,6 @@ comments: false
 
 ## Welcome to alanhodson.com
 
-Dummy content about the site here... 
+This site aims to serve as a single place where you can find out about my consulting business and how I might be able to help you or your organisation and also a place where I can maintain a blog of some of my experiences, thoughts and advice.
+
+Please feel free to contact me either via email or via LinkedIn with the links in the sidebar.

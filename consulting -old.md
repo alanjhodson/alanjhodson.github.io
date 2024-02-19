@@ -19,4 +19,4 @@ I'm flexible on how to be engaged. This can include:
 - Discounted Pre-Paid Services
 - Ongoing Services, a regular booking for specialist services on a 3, 6, 12 month (or longer) basis
 
-If you would like to have a chat or discuss any of the topics I blog about, feel free to reach out and should you like to get in touch, you can email me at <mail@alanhodson.com>.
+If you would like to have a chat or discuss any of the topics I blog about, feel free to reach out and should you like to get in touch, you can email me at <mail@alanhodson.com> or use the provided [contact form](/contact).

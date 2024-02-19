@@ -58,8 +58,6 @@ menu:
     url:               /boards/
   - title:             Consulting & Contact
     url:               /consulting/
-  - title:             About
-    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -344,7 +342,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-# google_site_verification: <verification-id>
+# google_site_verification: G-HZQEMLZWMX
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>

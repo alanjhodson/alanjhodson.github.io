@@ -4,13 +4,22 @@ title: Consulting
 subtitle: Does your organisation need my assistance?
 ---
 
+# Overview
 I am available to assist your organisation if you feel my skillset would be of benefit. This could be as simple as an informal discussion over coffee or something a bit more formal. I have my own Australian registered Pty Ltd business so can be engaged directly or am also happy to assist other systems integrators or businesses if you already have a working relationship with another business. 
 
-Additionally, I'm happy to consult to integrators who need my assistance on a project or similar and as always am fully transparent and ethical in the way that I work. 
+# Partnering
+
+Partnering is an option that works for many orgainisations, especially larger ones. I'm happy to consult to integrators who need my assistance on a project or similar and as always am fully transparent and ethical in the way that I work. I can also assist in reviewing an existing IT Services related business and act as a coach or third-party reviewer.
+
+# International Work
 
 Whilst I'm based in Perth, Western Australia, I am also happy to work in different regions and timezones and can support multiple currencies, so for example if you're a US or UK based customer or partner feel free to reach out, I'm happy to travel where required also.
 
+# Startup and Board Consulting
+
 I'm always looking to find the right organisations I can assist and grow with also and this includes joining boards of both established and startup organisations.
+
+# How to Engage and Contact Me
 
 I'm flexible on how to be engaged. This can include:
 

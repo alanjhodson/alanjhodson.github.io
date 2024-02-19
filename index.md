@@ -9,6 +9,7 @@ cover: true
 sitemap: true
 hide_last_modified: false
 comments: false
+<!--posts-->
 ---
 
 ## Welcome to alanhodson.com
@@ -17,4 +18,3 @@ This site aims to serve as a single place where you can find out about my consul
 
 Please feel free to contact me either via email or via LinkedIn with the links in the sidebar or subscribe to the RSS feed.
 
-<!--posts-->

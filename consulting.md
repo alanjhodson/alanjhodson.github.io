@@ -5,7 +5,18 @@ subtitle: Does your organisation need my assistance?
 ---
 
 ## Overview
-I am available to assist your organisation if you feel my skillset would be of benefit. This could be as simple as an informal discussion over coffee or something a bit more formal. I have my own Australian registered Pty Ltd business so can be engaged directly or am also happy to assist other systems integrators or businesses if you already have a working relationship with another business. 
+I am available to assist your organisation if you feel my skillset would be of benefit. From a consulting perspective this includes the following areas of specialty:
+
+-   End User Computing (EUC) including solutions from Amazon, Citrix, Microsoft, Nerdio and VMware
+-   Hybrid Cloud Infrastructure including Amazon, Citrix, Microsoft, Nutanix and VMware including virtual machines and containerisation
+-   Automation and Infrastructure as Code including Github and Terraform
+-   Application Delivery Controllers including Citrix and F5
+-   Microsoft 365
+-   Identity and Security
+-   Environmental, Social and Governance (ESG)
+-   IT/OT
+
+This could be as simple as an informal discussion over coffee or something a bit more formal. I have my own Australian registered Pty Ltd business so can be engaged directly or am also happy to assist other systems integrators or businesses if you already have a working relationship with another business. 
 
 ## Partnering
 
@@ -23,9 +34,9 @@ I'm always looking to find the right organisations I can assist and grow with al
 
 I'm flexible on how to be engaged. This can include:
 
-- Fixed Cost Projects
-- Agreed Hourly Rates
-- Discounted Pre-Paid Services
-- Ongoing Services, a regular booking for specialist services on a 3, 6, 12 month (or longer) basis
+-   Fixed Cost Projects
+-   Agreed Hourly Rates
+-   Discounted Pre-Paid Services
+-   Ongoing Services, a regular booking for specialist services on a 3, 6, 12 month (or longer) basis
 
 If you would like to have a chat or discuss any of the topics I blog about, feel free to reach out and should you like to get in touch, you can email me at <mail@alanhodson.com>.

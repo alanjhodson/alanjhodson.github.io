@@ -16,5 +16,7 @@ comments: false
 
 This site aims to serve as a single place where you can find out about my consulting business and how I might be able to help you or your organisation and also a place where I can maintain a blog of some of my experiences, thoughts and advice.
 
-Please feel free to contact me either via email or via LinkedIn with the links in the sidebar or subscribe to the RSS feed.
+I offer a range of project and ongoing services which are outlined on this site. This will continue to change and there are a number of things planned for 2024 so visit back again soon for the latest blog article or services I provide.
+
+Please feel free to contact me either via email or via LinkedIn with the links in the sidebar.
 

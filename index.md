@@ -15,9 +15,11 @@ comments: false
 
 ### Welcome to alanhodson.com
 
-This site aims to serve as a single place where you can find out about Alan Hodson Consulting and how I might be able to help you or your organisation. It is also a place where I can maintain a blog of some of my experiences, thoughts and advice that I hope you find useful.
+Alan Hodson Consulting works on the values of Trust, Integrity, Profit, Focus, Excellence and Passion whether as a partner, mentor, consultant or at the board level. Founded by Alan Hodson, the business draws upon decades of experience in IT and Business to bring value to individuals and businesses, allowing them to achieve their goals.
 
-I offer a range of project and ongoing services which are outlined on this site. This will continue to change and there are a number of things planned for 2024 so visit back again soon for the latest blog article or services I provide.
+This site aims to serve as a single place where you can find out about Alan Hodson Consulting and how Alan might be able to help you or your organisation. It is also a place where Alan can maintain a blog of some of his experiences or those of guest writers, along with thoughts and advice that is aimed to be useful and informative.
 
-Please feel free to contact me either via email or via LinkedIn with the links in the sidebar.
+Alan Hodson Consulting offer a range of project and ongoing services which are outlined on this site. This will continue to change and there are a number of things planned for 2024 so visit back again soon for the latest blog article or services I provide.
+
+Please feel free to be in contact either via email or via LinkedIn with the links in the sidebar.
 

@@ -11,6 +11,7 @@ hide_last_modified: false
 comments: false
 <!--posts-->
 ---
+![alanhodson.com](/assets/images/AH_White_Background.png)
 
 ## Welcome to alanhodson.com
 

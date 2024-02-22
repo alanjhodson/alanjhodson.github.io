@@ -11,7 +11,7 @@ hide_last_modified: false
 comments: false
 <!--posts-->
 ---
-![alanhodson.com](/#jekyll-theme-hydejack/assets/img/AH_White_Background.png)
+![alanhodson.com](/assets/img/general/AHC_PNG.png){:.lead width="800" height="106" loading="lazy"}
 
 ### Welcome to alanhodson.com
 

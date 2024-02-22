@@ -36,7 +36,7 @@ Well, in short I feel energized and have clarity in what I want to do and what I
 
 ## When did I know it was time?
 
-In early January, around Australia Day I was riding through the Perth CBD and I looked at everyone rushing to get to the office. I thought at the time, how good is this, I don't have to or want to do that right now. But, over the subsequent weeks once the family was back at work and school I started to really get a sense of wanting to get back to working with people and putting my plans and goals into action. Getting a business setup again, engaging with contacts and getting meetings underway as well as starting studying has been super exciting and I'm glad to have that energy and drive return.
+In early January, around Australia Day I was riding through the Perth CBD and I looked at everyone rushing to get to the office. I thought at the time, how good is this, I don't have to or want to do that right now. But, over the subsequent weeks once the family was back at work and school, I started to really get a sense of wanting to get back to working with people and putting my plans and goals into action. Getting a business setup again, engaging with contacts and getting meetings underway as well as starting studying has been super exciting and I'm glad to have that energy and drive return.
 
 ## Summary
 

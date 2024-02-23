@@ -36,7 +36,7 @@ I'm flexible on how to be engaged. This can include:
 
 -   Fixed Cost Projects
 -   Agreed Hourly Rates
--   Discounted Pre-Paid Services
+-   Pre-Paid Services
 -   Ongoing Services, or a regular booking for specialist services on a 3, 6, 12 month (or longer) basis
 
 If you would like to have a chat or discuss any of the topics I blog about, feel free to reach out. If you would like to get in touch, you can email me at <mail@alanhodson.com>.

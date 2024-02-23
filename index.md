@@ -19,7 +19,7 @@ Alan Hodson Consulting works on the values of Trust, Integrity, Profit, Focus, E
 
 This site aims to serve as a single place where you can find out about Alan Hodson Consulting and how Alan might be able to help you or your organisation. It is also a place where Alan can maintain a blog of some of his experiences or those of guest writers, along with thoughts and advice that is aimed to be useful and informative.
 
-Alan Hodson Consulting offer a range of project and ongoing services which are outlined on this site. This will continue to change and there are a number of things planned for 2024 so visit back again soon for the latest blog article or services I provide.
+Alan Hodson Consulting offers a range of project and ongoing services which are outlined on this site. This will continue to change, and there are a number of things planned for 2024, so visit back again soon for the latest blog articles and services I provide.
 
-Please feel free to be in contact either via email or via LinkedIn with the links in the sidebar.
+Please feel free to be in contact via email or LinkedIn. The links to these can be found in the sidebar.
 

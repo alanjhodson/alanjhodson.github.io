@@ -103,7 +103,6 @@ The following are some of the EUC Updates for the month of October 2024:
 
 - [v6.4.2 GA (Release Date October 10, 2024)](https://nmehelp.getnerdio.com/hc/en-us/articles/19837802929677-Release-Notes#f17ab5ae) – Add Support for Windows 24H2 Images and UAM Updates
 - [v6.4.3 GA (Release Date October 21, 2024)](https://nmehelp.getnerdio.com/hc/en-us/articles/19837802929677-Release-Notes#f575f082) – Updates to FSLogix App Masking
-- [v6.5.0 (Release Date October 31, 2024)](https://nmehelp.getnerdio.com/hc/en-us/articles/19837802929677-Release-Notes#f1099099) - A heap of changes including Nerdio Manager: Native Reporting (Public Preview), AI Powered Auto-scale Recommendations Preview (Premium), Nerdio Manager: Multi-Region DR Support, Auto-scale Profile Enhancements, Automatic Policy Backup, RDP ShortPath Settings, Dev Box Images ad and a heap of fixes. 
 
 ### NVIDIA
 

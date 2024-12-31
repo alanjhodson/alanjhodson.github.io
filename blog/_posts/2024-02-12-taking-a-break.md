@@ -7,8 +7,8 @@ categories: [Work/Life Balance, Focus]
 image:
   path: /assets/img/taking-a-break/post_default_image.jpg
 sitemap: true
-hide_last_modified: false
-comments: true
+hide_last_modified: true
+comments: false
 ---
 
 <!--excerpt-->

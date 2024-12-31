@@ -7,8 +7,8 @@ categories: [DaaS, VDI, EUC, News, Update]
 image:
   path: /assets/img/general/news.jpg
 sitemap: true
-hide_last_modified: false
-comments: true
+hide_last_modified: true
+comments: false
 ---
 
 <!--excerpt-->

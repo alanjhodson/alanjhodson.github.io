@@ -7,8 +7,8 @@ categories: [Github, Netlify, Jekyll]
 image:
   path: /assets/img/getting-setup-with-hydejack-and-netlify/post_default_image.jpg
 sitemap: true
-hide_last_modified: false
-comments: true
+hide_last_modified: true
+comments: false
 ---
 
 <!--excerpt-->

@@ -16,8 +16,6 @@ comments: false
 -  Table of Contents
 {:toc}
 
-# EUC News and Updates - December 2024
-
 # EUC News and Updates December 2024
 
 Here’s a roundup of News and Updates from December 2024.

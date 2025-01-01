@@ -2,13 +2,13 @@
 layout: post
 title: "St Mary's i3 Program 2024"
 permalink: "/st-marys-i3-program-2024/"
-description: "There's been a lot of change in the last couple of years around DaaS/VDI."
+description: "An overview of my mentoring year with St. Mary's and the i3 Program."
 categories: [Mentoring]
 image:
   path: /assets/img/st-marys-i3-program-2024/i3-mentors.jpg
 sitemap: true
-hide_last_modified: false
-comments: true
+hide_last_modified: true
+comments: false
 ---
 
 <!--excerpt-->
@@ -28,9 +28,9 @@ It has been highly successful and recently was given a [ringing endorsement](htt
 
 ## Mentoring
 
-## Mentoring at a high level is a combination of 4 onsite days with the students and collaboration via Teams throughout the year. Students are broken into teams of 4 with both a student mentor from year 11 and an industry mentor such as me
+Mentoring at a high level is a combination of 4 onsite days with the students and collaboration via Teams throughout the year. Students are broken into teams of 4 with both a student mentor from year 11 and an industry mentor such as me
 
-## Each of the days in a term are, as always, a packed room with lots of discussion and energy  
+Each of the days in a term are, as always, a packed room with lots of discussion and energy  
 
 <br/>The day’s generally commenced with students reconnecting with both student and industry mentors like myself and reviewing their progress. Teams then delved into the required objectives for the day. For example, during the Term 2 day, they were learning how to prioritise features and validate assumptions (Minimum Viable Product), before engaging in pitch feedback sessions to refine their communication skills and value propositions. Finally, they explored creativity through design thinking, fostering a culture of experimentation and divergent thinking via Crazy 8s and Figma.  
 <br/>The final day is during Term 4 and each team sets up a booth to showcase their solution to other students from year 9 who put in a student vote on the best solution. Additionally, each team pitches their idea judges who give feedback and ask the students questions on their solution, their ideas and how it solves the challenge they’ve selected or could be improved.
